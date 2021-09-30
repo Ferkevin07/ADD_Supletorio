@@ -61,4 +61,48 @@ Una ultima conclusion es que las personas que tenian mas de 1 hermano o esposa a
 
 ![img12](https://user-images.githubusercontent.com/66317435/135543338-d0ace9d8-9821-4544-9989-3a7062245ee2.jpeg)
 
-5.- Cree un dashboard sobre un dataset de COVID-19 con al menos 5 visualizaciones con sus respectivas conclusiones. Puede usar, Tableau, PowerBI o Kibana.
+# 5.- Cree un dashboard sobre un dataset de COVID-19 con al menos 5 visualizaciones con sus respectivas conclusiones. Puede usar, Tableau, PowerBI o Kibana.
+
+El dataset a usar para las visualizaciones se tomo de Kaggle
+
+![img13](https://user-images.githubusercontent.com/66317435/135544191-dd3c3206-7eb4-464c-ae85-fb326c312a6c.jpeg)
+
+Para trabajar con PowerBi es necesario transformar el archivos CSV a XLS
+
+![img14](https://user-images.githubusercontent.com/66317435/135544207-890bdb3f-eaca-4465-b75a-35986d697357.jpeg)
+
+Archivo transformado y listo para ser importado
+
+![img15](https://user-images.githubusercontent.com/66317435/135544223-8dcd0bb0-cf70-4b1b-b31c-cb6b0a38f7bd.jpeg)
+
+Visualizacion previa de los datos en PowerBi
+
+![img16](https://user-images.githubusercontent.com/66317435/135544253-24e346fd-e730-4bb2-b937-3ed9f7ccfd0c.jpeg)
+
+A partir del dataset anterior se obtuvo las siguientes visualizaciones
+
+![img17](https://user-images.githubusercontent.com/66317435/135544274-6300b56c-13b8-4a4d-a66d-b03f1e0c20b6.jpeg)
+
+En el caso de la visualizacion geografica (expandida) se puede concluir que la mayor cantidad de contagios se da en Asia
+
+![img18](https://user-images.githubusercontent.com/66317435/135544297-7968d5b8-3c93-42ab-918a-fa71d244f529.jpeg)
+
+Por otro lado, la mayor cantidad de repuntes del grafico de pastel (expandido) se da principalmente en America y en el Sureste de Asia
+
+![img19](https://user-images.githubusercontent.com/66317435/135544315-52dbbb95-a78c-4ad3-a618-e9614a7ebefa.jpeg)
+
+Además, en la graficas de barras horizontales se tiene que la mayor cantidad de muertes por país se da en Estados Unidos, seguido por Brasil y Reino Unido
+
+![img20](https://user-images.githubusercontent.com/66317435/135544332-67f0e0a9-935e-4e49-b87b-7a21ec09f9ff.jpeg)
+
+Con respecto al incremento de casos de la última semana de Agosto se tiene que disminuye de manera exponencial en países como Las Bahamas, Suriname, Costa Rica, etc.
+
+![img21](https://user-images.githubusercontent.com/66317435/135544343-ce97e043-e371-490e-8dad-f6fbb4e5c5e0.jpeg)
+
+Y de manera mundial se tiene que los casos de Covid-19 han incrementado la ultima semana en 245 mil
+
+![img22](https://user-images.githubusercontent.com/66317435/135544367-3407f516-66b5-4869-b049-b0424b755d03.jpeg)
+
+
+
+
