@@ -1,7 +1,24 @@
 # ADD_Supletorio
 1.- Transportar datos mediante scripts desde una base de datos relacional hasta MongoDB, en cada extremo del flujo de datos debe ser un usuario validado (login y password) 
+# 2.- Crear un script que inserte n documentos con elementos al azar en CouchDB, donde uno de los campos debe ser un número. Sobre esta base de datos, crear una vista que emita mediante "curl" un json con los elementos en orden descendente.
 
-2.- Crear un script que inserte n documentos con elementos al azar en CouchDB, donde uno de los campos debe ser un número. Sobre esta base de datos, crear una vista que emita mediante "curl" un json con los elementos en orden descendente.
+El script de Jupyter Notebook se encuentra cargado en este repositorio. 
+
+El resultado de aplicar el script se puede ver a continuación:
+
+![couch1](https://user-images.githubusercontent.com/66317435/135547600-003df9d7-d8b9-4db5-b86f-5d501d9f66e6.PNG)
+
+Luego se uso el siguiente comando para extraer la información desde CouchDB al escritorio
+
+![img23](https://user-images.githubusercontent.com/66317435/135547727-3836df6c-bcb2-43ca-ae8e-8cd7fc549a92.jpeg)
+
+Finalmente se tiene el siguiente resultado para visualizacion.
+
+![img24](https://user-images.githubusercontent.com/66317435/135547835-fbc0fecb-4698-4b18-ab1d-18d46e58b25f.jpeg)
+
+y finalmente se muestra el json exportado
+
+![img25](https://user-images.githubusercontent.com/66317435/135547875-d199a1e4-32f2-4bd7-bdce-2bcb366e3c23.jpeg)
 
 # 3.- Crear un modelo descriptivo mediante RapidMiner o Knime, sobre el dataset del titanic, respondiento a las preguntas:
 
