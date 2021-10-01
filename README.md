@@ -18,7 +18,7 @@ Finalmente se tiene el siguiente resultado para visualizacion.
 
 y finalmente se muestra el json exportado
 
-![img25](https://user-images.githubusercontent.com/66317435/135547875-d199a1e4-32f2-4bd7-bdce-2bcb366e3c23.jpeg)
+![Captura](https://user-images.githubusercontent.com/66317435/135548689-5b98f75d-f5cd-4699-bfbc-c1e96d6105f1.PNG)
 
 # 3.- Crear un modelo descriptivo mediante RapidMiner o Knime, sobre el dataset del titanic, respondiento a las preguntas:
 
